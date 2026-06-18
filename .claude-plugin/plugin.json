@@ -1,0 +1,19 @@
+{
+  "name": "quorum",
+  "version": "0.1.0",
+  "description": "Convene a quorum of external AI models (Codex, opencode, a fresh Claude) for review, research and tasks — with a turbo-review orchestrator that runs them all at once and synthesizes the verdicts.",
+  "author": { "name": "alesha-pro" },
+  "homepage": "https://github.com/alesha-pro/quorum",
+  "repository": "https://github.com/alesha-pro/quorum",
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "code-review",
+    "second-opinion",
+    "multi-model",
+    "orchestration",
+    "codex",
+    "opencode",
+    "claude"
+  ]
+}

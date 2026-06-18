@@ -1,0 +1,15 @@
+{
+  "name": "quorum",
+  "owner": { "name": "alesha-pro" },
+  "description": "Quorum — portable Agent Skills that summon external AI models (Codex, opencode, a fresh Claude) plus a turbo-review orchestrator.",
+  "plugins": [
+    {
+      "name": "quorum",
+      "source": "./",
+      "description": "All five skills: codex, opencode, claude, codex-imagegen, and the turbo-review orchestrator.",
+      "version": "0.1.0",
+      "license": "MIT",
+      "keywords": ["code-review", "second-opinion", "multi-model", "orchestration"]
+    }
+  ]
+}
