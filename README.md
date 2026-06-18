@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/quorum-banner.png" alt="Quorum — convene a quorum of AI models from your terminal" width="100%">
+</p>
+
 # Quorum
 
 **Convene a quorum of AI models from your terminal.** A set of portable [Agent Skills](https://opencode.ai/docs/skills/) that let any coding agent summon *other* AI CLIs — OpenAI **Codex**, **opencode** (DeepSeek / Kimi / Qwen), and a fresh **Claude** — as an independent panel for review, research, and hard calls. Plus **`turbo-review`**: one command that runs them all at once and synthesizes the verdicts.
